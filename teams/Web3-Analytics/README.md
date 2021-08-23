@@ -20,17 +20,23 @@ Web3-Analytics 是一个开放的数据平台，专注于对 Polkadot, Ethere
 
 **区块链端**
 
-- `定制化多链数据索引工具 Indexer of Multi-Blockchain`
-  - [ ] NFT 创建及数据结构定义 (`fn create_nft()`)
-  - [ ] NFT 转帐函数 (`fn transfer()`)
-  - [ ] NFT 销毁函数 (`fn burn_token()`)
+- 定制化多链数据索引框架，支持Substrate和以太坊
 
-**客户端**
 
-- web 端
-  - [ ] 用户注册页面
-  - [ ] NFT 产品创建流程
-  - [ ] NFT 产品购买流程
+**Web端**
+
+多链聚合数据分析看板，包括：
+
+- 20种主要ERC20 代币的可视化分析
+
+- Kusama Crowdloan 宏观微观可视化分析看板
+
+- Kaurua Defi 项目可视化分析数据看板
+
+- 基于地址行为的标注系统
+
+
+
 
 
 ## 队员信息
@@ -39,8 +45,8 @@ Web3-Analytics 是一个开放的数据平台，专注于对 Polkadot, Ethere
 
 赵世豪/Engineer  Github: [willzhaoshihao@gmail.com ](https://github.com/Shihao66) 微信：ZSH825032
 
-王敏琪/Engineer  Github: https://github.com/wangminqi 微信: wmq98gsn 
+王敏琪/Engineer  Github: https://github.com/wangminqi  微信: wmq98gsn 
 
 周蓉/Product&Designer Github: melz@litentry.com 微信: Rhygen
 
-丁浩/Product&Engineer Github: https://github.com/Moehringen 微信: Haroldding
+丁浩/Product&Engineer Github: https://github.com/Moehringen  微信: Haroldding
