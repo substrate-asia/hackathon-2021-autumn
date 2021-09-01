@@ -71,7 +71,7 @@ Web3go 作为一个开放的数据平台，专注于对 Polkadot, Ethereum等
 ## 队员信息
 <br>
 
-**卞云健/架构师 Github: [626680108@qq.com](https://github.com/bianyunjian)**
+**卞云健/架构师 Github:  https://github.com/bianyunjian**
 
 
 苏州大学计算机科学与技术学士
@@ -108,7 +108,7 @@ Web3go 作为一个开放的数据平台，专注于对 Polkadot, Ethereum等
 
 <br>
 
-**赵世豪/工程师  Github: [willzhaoshihao@gmail.com ](https://github.com/Shihao66)** 
+**赵世豪/工程师  Github: https://github.com/Shihao66** 
 
 多伦多大学计算机科学荣誉学士 Data Analyst of Litentry
 
