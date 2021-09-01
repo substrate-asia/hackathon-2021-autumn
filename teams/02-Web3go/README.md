@@ -17,6 +17,17 @@ Web3go 是一个开放的数据平台，专注于对 Polkadot, Ethereum等公
 <br>
 
 
+## Demo地址
+
+
+
+已经完成ERC-20三种Token分析以及Kusama crowdloan分析, 正在添加更多的数据看板以及UI优化
+
+[Web3Go Demo](http://106.52.138.224:8080/#/)
+
+
+<br>
+
 ## 黑客松期间计划完成的事项
 
 
