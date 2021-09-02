@@ -108,7 +108,7 @@ Web3go 作为一个开放的数据平台，专注于对 Polkadot, Ethereum等
 
 <br>
 
-**赵世豪/工程师  Github: https://github.com/Shihao66** 
+**赵世豪/工程师  Github: https://github.com/Shihao66**
 
 多伦多大学计算机科学荣誉学士 Data Analyst of Litentry
 
