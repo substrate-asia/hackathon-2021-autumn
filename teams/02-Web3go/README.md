@@ -120,6 +120,23 @@ Web3go 作为一个开放的数据平台，专注于对 Polkadot, Ethereum等
 
 <br>
 
+
+**丁辉/工程师 Github:https://github.com/cleartime**
+
+资深前端工程师，node工程师，
+
+在前端开发领域经验丰富
+
+
+谷歌GDG活动公众号运营人员
+区块链爱好者
+
+
+喜爱研究前沿技术、产品
+
+<br>
+
+
 **丁浩/产品&工程师 Github: https://github.com/Moehringen** 
 
 斯图加特大学计算机硕士
