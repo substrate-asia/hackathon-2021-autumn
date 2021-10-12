@@ -76,7 +76,7 @@ Web3go 作为一个开放的数据平台，专注于对 Polkadot, Ethereum等
 
 苏州大学计算机科学与技术学士
 
-资深软件架构师，Architect of Litentry 
+资深软件架构师，前思必驰架构师
 
 涉猎广泛,熟悉多种编程语言和开发框架
 
@@ -90,7 +90,7 @@ Web3go 作为一个开放的数据平台，专注于对 Polkadot, Ethereum等
 
 哥伦比亚大学金融数学硕士
 
-资深区块链工程师 Core Dev of Litentry
+资深区块链工程师， 曾为美国华尔街量化交易员
 
 以太solidity，波卡substrate开发者
 
@@ -100,9 +100,9 @@ Web3go 作为一个开放的数据平台，专注于对 Polkadot, Ethereum等
 
 **周蓉/运营市场 Github: melz@litentry.com** 
 
-加州大学伯克利分校法律硕士 BD&Community Director of Litentry
+加州大学伯克利分校法律硕士 
 
-区块链孵化和项目运营负责人， 运营 Litentry 60k+ 国际社区
+区块链孵化和项目运营负责人， 运营  60k+ 国际社区
 
 擅长技术写作、项目产品研究
 
@@ -110,7 +110,7 @@ Web3go 作为一个开放的数据平台，专注于对 Polkadot, Ethereum等
 
 **赵世豪/工程师  Github: https://github.com/Shihao66**
 
-多伦多大学计算机科学荣誉学士 Data Analyst of Litentry
+多伦多大学计算机科学荣誉学士 
 
 曾任世界500强金融企业开发工程师、技术系统分析师
 
@@ -123,7 +123,7 @@ Web3go 作为一个开放的数据平台，专注于对 Polkadot, Ethereum等
 
 **丁辉/工程师 Github:https://github.com/cleartime**
 
-资深前端工程师，node工程师，
+资深前端工程师，携程node工程师
 
 在前端开发领域经验丰富
 
@@ -143,6 +143,6 @@ Web3go 作为一个开放的数据平台，专注于对 Polkadot, Ethereum等
 
 工程师，区块链行业从业者，自2018年起从事公链的开发和欧洲区块链市场推广工作
 
-波卡生态项目Litentry早期发起人之一
+曾任职于上海交大人工智能研究院研发总监
 
 
