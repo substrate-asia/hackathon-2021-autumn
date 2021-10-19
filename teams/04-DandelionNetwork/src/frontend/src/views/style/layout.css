@@ -1,0 +1,166 @@
+/* 页面布局start */
+
+
+.APP {
+  width:100vw;
+  height:100vh;
+}
+.layout {
+  position: relative;
+  height: 100vh;
+  width:100vw;;
+  background-color: rgb(27, 3, 31);
+  }
+  .layout-logo {
+      position: relative;
+      text-align: center;
+      height: 40px;
+      line-height: 40px;
+      cursor: pointer;
+      margin: 24px 0;
+      overflow: hidden;
+  }
+  .trigger {
+    padding: 0 24px;
+    font-size: 18px;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  .trigger:hover {
+    color: #1890ff;
+  }
+  
+ .logo {
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.3);
+  }
+  
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
+.header {
+  position: relative;
+  box-shadow: 4px 4px 40px 0 rgba(0, 0, 0, .05);
+  background: #fff;
+  height: 46px;
+  line-height: 46px;
+  padding: 0;
+}
+
+.footer {
+  text-align: center;
+  height: 48px;
+  line-height: 48px;
+  padding: 0;
+  background: #fff;
+  margin-top: 20px;
+}
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 100vh;
+  line-height: 160px;
+  /* background-image: url('/src/assests/company.jpg'); */
+  background-color: #fff 　;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  overflow: hidden;
+}　
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+  font-size: 100px;
+}
+.ant-carousel .slick-prev,　
+.ant-carousel .slick-next,
+.ant-carousel .slick-prev:hover,
+.ant-carousel .slick-next:hover {
+  font-size: inherit;
+  color: currentColor;
+}
+.arrow {
+  position: absolute;
+  top: 45%;
+  font-size: 100px;
+  color: rgb(133, 128, 128);
+  z-index: 1;
+}
+.indexWord {
+  color: white;
+  font-size:80px;
+  position: absolute;
+  top:35%;
+  left:17%;
+  z-index: 1;
+}
+.indexButton {
+  font-size:30px;
+  position: absolute;
+  top:60%;
+  left:47%;
+  z-index:1
+}
+.carsouel1 {
+  text-align: center;
+  height: 100vh;
+  line-height: 160px;
+  background-color: #fff 　;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  overflow: hidden;
+  background-image: url('/src/assests/company4.jpg');
+}
+.carsouel2 {
+  text-align: center;
+  height: 100vh;
+  line-height: 160px;
+  background-color: #fff 　;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  overflow: hidden;
+  background-image: url('/src/assests/company2.jpg');
+}
+.carsouel3 {
+  text-align: center;
+  height: 100vh;
+  line-height: 160px;
+  background-color: #fff 　;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  overflow: hidden;
+  background-image: url('/src/assests/company3.jpg');
+}
+.file {
+  position: relative;
+  display: inline-block;
+  background: transparent;
+  border: 1px solid #333;
+  padding: 4px 20px;
+  overflow: hidden;
+  text-decoration: none;
+  text-indent: 0;
+  width: 200px;
+  height: 100px;
+  line-height: 20px;
+  /* border-radius: 1px; */
+  color: #333;
+  position: relative;
+  font-size: 13px;
+
+}
+.file input {
+  position: absolute;
+  font-size: 100px;
+  right: 0;
+  top: 0;
+  opacity: 0;
+}
+.file .Icon {
+  left: 40%;
+    text-align: center;
+    position: absolute;
+    top: 27%;
+    font-size: 35px;
+}
+/* 页面布局end */
