@@ -52,4 +52,3 @@ Dandelion Network是基于Substrate打造的公益领域的跨链、可扩展和
 
 
 > 靓文阅读： [DandelionDAO生态介绍.pdf](./docs/DandelionDAO生态介绍.pdf)
-
